@@ -1,4 +1,4 @@
-# Aplikasi Android DompetKu
+# Aplikasi Catatan Keuangan Pribadi
 
 [![](https://gitlab.com/gitlab-org/gitlab-ce/badges/master/build.svg)](https://wahidari.github.io)
 [![](https://semaphoreci.com/api/v1/projects/2f1a5809-418b-4cc2-a1f4-819607579fe7/400484/shields_badge.svg)](https://wahidari.github.io)
